@@ -1,0 +1,10 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160815222444",
+    "pluralize": "registry:dt/pluralize#0.0.0+20160316155526"
+  },
+  "dependencies": {
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220",
+    "wize-schema": "github:hemantpopli/wize-schema/index.d.ts"
+  }
+}
